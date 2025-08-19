@@ -6,7 +6,7 @@ A modern and responsive single-page website for a coffee shop, built with **HTML
 
 ## 🌐 Live Demo
 
-[View the website](https://qhayiyangcobo.github.io/coffee-shop-website/)
+[View the website](https://qhayiyangcobo.github.io/coffee_shop_website/)
 
 ---
 
